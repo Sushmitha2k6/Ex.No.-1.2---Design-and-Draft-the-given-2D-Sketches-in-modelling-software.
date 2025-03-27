@@ -1,3 +1,11 @@
+NAME:SUSHMITHA S
+
+
+
+REG NO:212224230282
+
+
+
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
